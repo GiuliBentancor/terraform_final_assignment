@@ -1,5 +1,5 @@
 output "frontend_lb_public_ip" {
-  value = azurerm_lb.public_lb.frontend_ip_configuration[0].public_ip_address_id
+  value = module.frontend_lb.lb_public_ip
 }
 
 output "frontend_vms_private_ip_addresses" {
