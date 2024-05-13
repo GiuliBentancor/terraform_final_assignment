@@ -39,9 +39,10 @@ Create the required terraform configuration for the below infrastructure
   |  backend_vms_private_ip_addresses |
 
 
-  ![image](https://github.com/GiuliBentancor/terraform_final_assignment/assets/54630519/1d5b231d-6741-44c6-ba5f-f2a7219dd183)
-  ![image](https://github.com/GiuliBentancor/terraform_final_assignment/assets/54630519/f27a046a-4589-4d50-8d50-7ea0073dea18)
-  ![image](https://github.com/GiuliBentancor/terraform_final_assignment/assets/54630519/67615236-ab6f-48fd-9547-3ae2cb57ac84)
+  ![image](https://github.com/GiuliBentancor/terraform_final_assignment/assets/54630519/8af6fccf-81b7-4f6d-9660-42e764dc2e46)
+  ![image](https://github.com/GiuliBentancor/terraform_final_assignment/assets/54630519/c9b2c174-0cb1-4892-80bf-5e8fbed7018d)
+  ![image](https://github.com/GiuliBentancor/terraform_final_assignment/assets/54630519/79e3ff4c-5b60-4519-a966-38127959166f)
+
 
 
 
